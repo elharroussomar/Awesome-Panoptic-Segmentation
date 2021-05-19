@@ -1,14 +1,11 @@
 # Awesome-Panoptic-Segmentation
 If you have any problems, suggestions or improvements, please submit the issue or PR.
 
-
-Crowd Conting on Drone Data : Drone-SCNet: Scaled Cascade Network for Crowd Counting on Drone Data
-Here, Google Colab pro tools are used for training the existing code with PyTorch, and High-GPU option. 
 <h1>Content</h1>
 
 <ul>
-  <li>Dataset</li>
-  <li>Paper with codes</li>
+  <li>Datasets</li>
+  <li>Papers with codes</li>
   <ul>
     <li>2021</li>
     <li>2020</li>
