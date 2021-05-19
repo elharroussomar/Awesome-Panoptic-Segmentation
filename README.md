@@ -133,12 +133,4 @@ Here, Google Colab pro tools are used for training the existing code with PyTorc
 
 
 
-
-
-
-
-
-
-<img src="https://github.com/elharroussomar/Crowd-Conting-on-Drone-Data/blob/master/flowchartf1.png" alt="Italian Trulli">
-
-<img src="https://github.com/elharroussomar/Crowd-Conting-on-Drone-Data/blob/master/SEM2.png" alt="Italian Trulli">
+<img src="" alt="Italian Trulli">
