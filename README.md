@@ -42,7 +42,7 @@ Here, Google Colab pro tools are used for training the existing code with PyTorc
 <b>2021 :</b>
 <ul>
   <li>PPS: Wild Panoramic Panoptic Segmentation dataset [<a href="https://github.com/alexanderjaus/PPS" rel="nofollow">Code</a>]</li>
-
+</ul>
 
 <b>2020:</b>
 <ul>
