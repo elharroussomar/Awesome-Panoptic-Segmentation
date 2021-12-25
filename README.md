@@ -125,6 +125,24 @@ If you have any problems, suggestions or improvements, please submit the issue o
   <li>ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation [<a href="https://github.com/sacmehta/ESPNet/" rel="nofollow">Code</a>]</li>
   <li>Weakly- and Semi-Supervised Panoptic Segmentation [<a href="https://github.com/qizhuli/Weakly-Supervised-Panoptic-Segmentation" rel="nofollow">Code</a>]</li>
   <li>Effective use of synthetic data for urban scene semantic segmentationC [<a href="https://www.catalyzex.com/redirect?url=https://github.com/fatemehSLH/VEIS" rel="nofollow">Code</a>]</li>
+  
+  
+  <h1>Citation</h1>
+
+<div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="@article{elharrouss2021drone,
+  title={Drone-SCNet: Scaled Cascade Network for Crowd Counting on Drone Images},
+  author={Elharrouss, Omar and Almaadeed, Noor and Abualsaud, Khalid and Al-Ali, Ali and Mohamed, Amr and Khattab, Tamer and Al-Maadeed, Somaya},
+  journal={IEEE Transactions on Aerospace and Electronic Systems},
+  year={2021},
+  publisher={IEEE}
+}
+"><pre><code>@article{elharrouss2021panoptic,
+  title={Panoptic Segmentation: A Review},
+  author={Elharrouss, Omar and Al-Maadeed, Somaya and Subramanian, Nandhini and Ottakath, Najmath and Almaadeed, Noor and Himeur, Yassine},
+  journal={arXiv preprint arXiv:2111.10250},
+  year={2021}
+
+}
 </ul>
 
 
